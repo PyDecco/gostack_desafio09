@@ -1,3 +1,12 @@
+<h1 align="center">
+<br>
+  <img src="abca4c51c7e166b2980105b5e98b7ac2.jpg" alt="YOUR_PROJECT_NAME" width="120">
+<br>
+<br>
+Cesta de comprar de um e-commerce 
+</h1>
+
+
 ## Descrição
 Nesse desafio, criei uma nova aplicação para aprender novas coisas e treinar o que aprendi até agora no Node.js junto ao TypeScript, incluindo o uso de banco de dados com o TypeORM, e relacionamentos ManyToMany!
 
